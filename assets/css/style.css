@@ -123,9 +123,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
-    font-size: 20px;
-}
+/* removed footer h2 styling because heading was changed to h4 */
 
 /* moved img link to html page and assigned an id selector */
 #hero {
