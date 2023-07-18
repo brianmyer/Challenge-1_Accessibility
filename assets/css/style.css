@@ -68,6 +68,25 @@ p {
     margin-left: 20px;
 }
 
+/* consolidated seo, online reputation management, and social media marketing classes into one service offered section */
+.service-offered {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.service-offered img {
+    max-height: 200px;
+}
+
+.service-offered h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -96,25 +115,6 @@ p {
     max-width: 150px;
 }
 
-/* consolidated seo, online reputation management, and social media marketing classes into one service offered section */
-.service-offered {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.service-offered img {
-    max-height: 200px;
-}
-
-.service-offered h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 /* changed footer class to semantic element and updated selectors to reflect */
 footer {
     padding: 30px;
@@ -127,6 +127,7 @@ footer h2 {
     font-size: 20px;
 }
 
+/* moved img link to html page and assigned an id selector */
 #hero {
     height: 800px;
     width: 100%;
