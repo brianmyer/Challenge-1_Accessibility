@@ -20,6 +20,6 @@
 
  ## Link to Deployed Application
 
- https://brianmyer.github.io/Challenge-1_Accessibility/
+ https://brianmyer.github.io/Horiseon/
 
  
