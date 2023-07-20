@@ -1,4 +1,4 @@
-# Challenge 1 - Semantic HMTL & Accessibility
+# Horiseon
 
 ## Description 
 
