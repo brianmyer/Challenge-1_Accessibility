@@ -17,3 +17,9 @@
  ## Usage
 
  This challenge is meant for practice in specifying sections of code where possible with semantic HTML, simplifying and consolidating repeated sections, and adding a title and descriptions to images.
+
+ ## Link to Deployed Application
+
+ https://brianmyer.github.io/Challenge-1_Accessibility/
+
+ 
