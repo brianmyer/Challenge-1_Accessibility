@@ -22,7 +22,6 @@
 
  https://brianmyer.github.io/Horiseon/
 
-![Alt text](<Screenshot 2023-07-20 at 3.54.04 PM.png>)
+![Alt text](<assets/images/Screenshot 2023-07-20 at 3.54.04 PM.png>)
 
-![Alt text](<Screenshot 2023-07-20 at 3.54.20 PM.png>)
- 
+![Alt text](<assets/images/Screenshot 2023-07-20 at 3.54.20 PM.png>)
